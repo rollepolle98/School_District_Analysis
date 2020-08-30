@@ -30,28 +30,3 @@ Now that we have completed the analysis with and without ninth graders from Thom
 
 - Replacing the math and reading scores for ninth graders at Thomas Highschool did not affect the total number of students, total school budget or per student budget. While it did slightly affect all the average scores and pass percentages. Relative to other schools it made a significant difference due to the fact that prior to expenting the scores, Thomas High School was in the top 5 and after the second analysis it was not.
 
-* How is the district summary affected?
-* How is the school summary affected?
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
-* How does replacing the ninth grade scores affect the following:
-
-  * Math and Reading Scores by Grade
-  * Scores by School Spending
-  * Scores by School Size
-  * Scores by School Type
-
-**Summary:** Give a high-level summary of the three to four of most striking changes to the school district analysis after replacing the reading and math scores for the ninth grade at Thomas High School with NaN.
-
-The README.md document should be in the home directory of their repository. All links should be working, and images and code should be formatted and displayed where appropriate.
-
-## Solution File
-
-The final solution, [PyCitySchools challenge solution](PyCitySchools_Challenge_solution.ipynb), is provided for you to as a reference when checking learners' submissions.
-
-The challenge submission should contain the `PyCitySchools_Challenge_solution.ipynb` file, the the “Resources” folder with the `students_complete.csv` and the `school_complete.csv` file, and an update repository README.md that has the written analysis.
-
-## Grading Rubric
-
-The [PyCitySchools Grading Rubric](../Resources/PyCitySchools_Grading_Rubric.pdf) is provided for you to use when grading the learners' submissions.
-
-
