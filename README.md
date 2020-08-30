@@ -23,11 +23,11 @@ Now that we have completed the analysis with and without ninth graders from Thom
 
 - The district summary was slightly affected in that passing math % decreased by .6% (75% to 74.4%), passing reading % decreased by .8% (86% to 85.2%), and overal passing % decreased by .6% (65% to 64.4%)
 
-## District Summary without altering 9th graders scores at Thomas High School.
+#### District Summary without altering 9th graders scores at Thomas High School.
 
 ![](Resources/District_Summary/1st_Analysis.png) 
 
-## District Summary with altering 9th graders scores at Thomas High School.
+#### District Summary with altering 9th graders scores at Thomas High School.
 
 ![](Resources/District_Summary/2nd_Analysis.png) 
 
