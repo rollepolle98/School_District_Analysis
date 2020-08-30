@@ -55,11 +55,11 @@ Now that we have completed the analysis with and without ninth graders from Thom
 
 ###### Math Scores By Grade Summary without altering 9th graders scores at Thomas High School.
 
-![](Resources/Math_Scores_By_Grade/1st_Analysis.png) 
+![](Resources/Math_Scores_by_Grade/1st_Analysis.png) 
 
 ###### Math Scores By Grade Summary with altering 9th graders scores at Thomas High School.
 
-![](Resources/Math_Scores_By_Grade/2nd_Analysis.png) 
+![](Resources/Math_Scores_by_Grade/2nd_Analysis.png) 
 
 #### - Reading Scores by Grade were only affected for Thomas High school. (as seen below)
 
