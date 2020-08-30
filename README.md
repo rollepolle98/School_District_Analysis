@@ -21,82 +21,82 @@ First we are tasked with replacing the reading and math scores of the ninth grad
  
 Now that we have completed the analysis with and without ninth graders from Thomas High School we can clearly see how the data was affected. 
 
-### - The district summary was slightly affected in that passing math % decreased by .6% (75% to 74.4%), passing reading % decreased by .8% (86% to 85.2%), and overal passing % decreased by .6% (65% to 64.4%). (as seen below)
+#### - The district summary was slightly affected in that passing math % decreased by .6% (75% to 74.4%), passing reading % decreased by .8% (86% to 85.2%), and overal passing % decreased by .6% (65% to 64.4%). (as seen below)
 
-#### District Summary without altering 9th graders scores at Thomas High School.
+###### District Summary without altering 9th graders scores at Thomas High School.
 
 ![](Resources/District_Summary/1st_Analysis.png) 
 
-#### District Summary with altering 9th graders scores at Thomas High School.
+###### District Summary with altering 9th graders scores at Thomas High School.
 
 ![](Resources/District_Summary/2nd_Analysis.png) 
 
-### - The school summary was affected for only Thomas High School but not any of the others due to the fact that only scores for ninth graders at Thomas High School were altered but not for any other school. (as seen below)
+#### - The school summary was affected for only Thomas High School but not any of the others due to the fact that only scores for ninth graders at Thomas High School were altered but not for any other school. (as seen below)
 
-#### Per School Summary without altering 9th graders scores at Thomas High School.
+###### Per School Summary without altering 9th graders scores at Thomas High School.
 
 ![](Resources/Per_School_Summary/1st_Analysis.png) 
 
-#### Per School Summary with altering 9th graders scores at Thomas High School.
+###### Per School Summary with altering 9th graders scores at Thomas High School.
 
 ![](Resources/Per_School_Summary/2nd_Analysis.png) 
 
-### - Replacing the math and reading scores for ninth graders at Thomas Highschool did not affect the total number of students, total school budget or per student budget. While it did slightly affect all the average scores and pass percentages. Relative to other schools it made a significant difference due to the fact that prior to expenting the scores, Thomas High School was in the top 5 and after the second analysis it was not. (as seen below)
+#### - Replacing the math and reading scores for ninth graders at Thomas Highschool did not affect the total number of students, total school budget or per student budget. While it did slightly affect all the average scores and pass percentages. Relative to other schools it made a significant difference due to the fact that prior to expenting the scores, Thomas High School was in the top 5 and after the second analysis it was not. (as seen below)
 
-#### Top 5 Summary without altering 9th graders scores at Thomas High School.
+###### Top 5 Summary without altering 9th graders scores at Thomas High School.
 
 ![](Resources/Top_5/1st_Analysis.png) 
 
-#### Top 5 Summary with altering 9th graders scores at Thomas High School.
+###### Top 5 Summary with altering 9th graders scores at Thomas High School.
 
 ![](Resources/Top_5/2nd_Analysis.png) 
 
-### - Math Scores by Grade were only affected for Thomas High school. (as seen below)
+#### - Math Scores by Grade were only affected for Thomas High school. (as seen below)
 
-#### Math Scores By Grade Summary without altering 9th graders scores at Thomas High School.
+###### Math Scores By Grade Summary without altering 9th graders scores at Thomas High School.
 
 ![](Resources/Math_Scores_By_Grade/1st_Analysis.png) 
 
-#### Math Scores By Grade Summary with altering 9th graders scores at Thomas High School.
+###### Math Scores By Grade Summary with altering 9th graders scores at Thomas High School.
 
 ![](Resources/Math_Scores_By_Grade/2nd_Analysis.png) 
 
-### - Reading Scores by Grade were only affected for Thomas High school. (as seen below)
+#### - Reading Scores by Grade were only affected for Thomas High school. (as seen below)
 
-#### Reading Scores By Grade Summary without altering 9th graders scores at Thomas High School.
+###### Reading Scores By Grade Summary without altering 9th graders scores at Thomas High School.
 
 ![](Resources/Reading_Scores_By_Grade/1st_Analysis.png) 
 
-#### Reading Scores By Grade Summary with altering 9th graders scores at Thomas High School.
+###### Reading Scores By Grade Summary with altering 9th graders scores at Thomas High School.
 
 ![](Resources/Reading_Scores_By_Grade/2nd_Analysis.png) 
 
-### - Scores based on spending ranges was not affected at all. (as seen below)
+#### - Scores based on spending ranges was not affected at all. (as seen below)
 
-#### Scores based on spending ranges without altering 9th graders scores at Thomas High School.
+###### Scores based on spending ranges without altering 9th graders scores at Thomas High School.
 
 ![](Resources/Scores_By_School_Spending/1st_Analysis.png) 
 
-#### Scores based on spending ranges with altering 9th graders scores at Thomas High School.
+###### Scores based on spending ranges with altering 9th graders scores at Thomas High School.
 
 ![](Resources/Scores_By_School_Spending/2nd_Analysis.png) 
 
-### - Scores based on School Size were also not impacted.(as seen below)
+#### - Scores based on School Size were also not impacted.(as seen below)
 
-#### Scores based on school size without altering 9th graders scores at Thomas High School.
+###### Scores based on school size without altering 9th graders scores at Thomas High School.
 
 ![](Resources/Scores_By_School_Size/1st_Analysis.png) 
 
-#### Scores based on school size with altering 9th graders scores at Thomas High School.
+###### Scores based on school size with altering 9th graders scores at Thomas High School.
 
 ![](Resources/Scores_By_School_Size/2nd_Analysis.png) 
 
-### - Scores based on school type were impacted in that there were differences in the passing percentages for charter schools but district schools remained unaffected. (as seen below)
+#### - Scores based on school type were impacted in that there were differences in the passing percentages for charter schools but district schools remained unaffected. (as seen below)
 
-#### Scores based on school type without altering 9th graders scores at Thomas High School.
+###### Scores based on school type without altering 9th graders scores at Thomas High School.
 
 ![](Resources/Scores_By_school_Type/1st_Analysis.png) 
 
-#### Scores based on school type with altering 9th graders scores at Thomas High School.
+###### Scores based on school type with altering 9th graders scores at Thomas High School.
 
 ![](Resources/Scores_By_school_Type/2nd_Analysis.png) 
