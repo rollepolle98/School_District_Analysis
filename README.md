@@ -21,7 +21,7 @@ First we are tasked with replacing the reading and math scores of the ninth grad
  
 Now that we have completed the analysis with and without ninth graders from Thomas High School we can clearly see how the data was affected. 
 
-#### - The district summary was slightly affected in that passing math % decreased by .6% (75% to 74.4%), passing reading % decreased by .8% (86% to 85.2%), and overal passing % decreased by .6% (65% to 64.4%). (as seen below)
+#### - The district summary was slightly affected in that passing math %, passing reading % and overall passing % all decreased after altering 9th graders scores from Thomas High School. (as seen below)
 
 ###### District Summary without altering 9th graders scores at Thomas High School.
 
@@ -100,3 +100,8 @@ Now that we have completed the analysis with and without ninth graders from Thom
 ###### Scores based on school type with altering 9th graders scores at Thomas High School.
 
 ![](Resources/Scores_By_school_Type/2nd_Analysis.png) 
+
+
+# Overall Summary
+
+While all of this data may be overwhelming, it is neccesary in order to determine whether or not altering those grades on 9th Graders at Thomas High School had a significant impact. After reviewing all of the data, it is clear that these scores have a significant impact. For starters looking at the district summary, it was slightly affected in that passing math % decreased by .6% (75% to 74.4%), passing reading % decreased by .8% (86% to 85.2%), and overal passing % decreased by .6% (65% to 64.4%). Next moving on to school summary for Thomas High School, its shows very clearly that the the average math and reading score both deacreased and so did the passing percentages for both categories. Finally it is worth noting that some categories such as scores based on school size and school spending per student were not affected showing that while it did skew most results, it did not skew all. The real significance of all of this comes into play when taking a deeper look at the Top 5 schools, prior to altering the 9th graders scores at Thomas High School, they were placed in the top 5 list at number two, but after the second analysis with the altered grades, they were no longer on that list. Overall, we can see that the altered grades for the 9th graders played a significant role when looking at individual statistics for Thomas High School which was expected but also played a vital role in determining the ranking of the school as a whole which in my opinion was the largest disntuigushing factor for the whole analysis.
