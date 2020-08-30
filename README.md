@@ -21,7 +21,7 @@ First we are tasked with replacing the reading and math scores of the ninth grad
  
 Now that we have completed the analysis with and without ninth graders from Thomas High School we can clearly see how the data was affected. 
 
-- The district summary was slightly affected in that passing math % decreased by .6% (75% to 74.4%), passing reading % decreased by .8% (86% to 85.2%), and overal passing % decreased by .6% (65% to 64.4%)
+### - The district summary was slightly affected in that passing math % decreased by .6% (75% to 74.4%), passing reading % decreased by .8% (86% to 85.2%), and overal passing % decreased by .6% (65% to 64.4%). (as seen below)
 
 #### District Summary without altering 9th graders scores at Thomas High School.
 
@@ -31,7 +31,16 @@ Now that we have completed the analysis with and without ninth graders from Thom
 
 ![](Resources/District_Summary/2nd_Analysis.png) 
 
-- The school summary was affected for only Thomas High School but not any of the others due to the fact that only scores for ninth graders at Thomas High School were altered but not for any other school.
+### - The school summary was affected for only Thomas High School but not any of the others due to the fact that only scores for ninth graders at Thomas High School were altered but not for any other school. (as seen below)
+
+#### Per School Summary without altering 9th graders scores at Thomas High School.
+
+![](Resources/Per_School_Summary/1st_Analysis.png) 
+
+#### Per School Summary with altering 9th graders scores at Thomas High School.
+
+![](Resources/Per_School_Summary/2nd_Analysis.png) 
+
 
 - Replacing the math and reading scores for ninth graders at Thomas Highschool did not affect the total number of students, total school budget or per student budget. While it did slightly affect all the average scores and pass percentages. Relative to other schools it made a significant difference due to the fact that prior to expenting the scores, Thomas High School was in the top 5 and after the second analysis it was not.
 
